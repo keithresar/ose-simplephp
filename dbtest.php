@@ -12,12 +12,12 @@ if ($connection->connect_errno)  {
     exit();
 }
 
-echo "<br><br><br><br>My awesome PHP test";
+echo "<br><br><br><br>My awesome PHP test<hr>";
 
 $query = "SELECT * from users";
 $rs = $connection->query($query);
 while ($row = $rs->fetch_array(MYSQLI_ASSOC)) {
-    echo $row['user_id'] . " " . $row['username'] . "\n";
+    echo $row['user_id'] . " " . $row['username'] . "<br>\n";
 }
 $rs->close();
 $connection->close();
