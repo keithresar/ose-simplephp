@@ -1,6 +1,6 @@
 <?php
 
-$EXEC_TIME_SECS=5;
+$EXEC_TIME_SECS=4;
 
 echo "Generating load....<br>\n";
 
