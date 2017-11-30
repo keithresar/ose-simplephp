@@ -2,7 +2,7 @@
 
   <body>
     <center>
-      <img src="/images/blue.png">
+      <img src="/images/green.png">
     </center>
   </body>
 
