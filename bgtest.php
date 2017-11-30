@@ -1,7 +1,9 @@
 <html>
 
   <body>
-    <img src="/images/blue.png">
+    <center>
+      <img src="/images/blue.png">
+    </center>
   </body>
 
 </html>
