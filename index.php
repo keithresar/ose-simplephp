@@ -13,5 +13,5 @@ echo "<hr>\n";
 
 ?>
 
-<a href="dbtest.php">dbtest</a> · <a href="genload.php">genload</a>
+<a href="bgtest.php">bgtest</a> · <a href="genload.php">genload</a>
 
