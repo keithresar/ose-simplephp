@@ -1,4 +1,4 @@
-Hello.  Again
+Hello.
 
 <?php
 
