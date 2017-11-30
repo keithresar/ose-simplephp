@@ -2,7 +2,7 @@
 
   <body>
     <center>
-      <img src="/images/blue.png" style="height: 100%;">
+      <img src="/images/green.png" style="height: 100%;">
     </center>
   </body>
 
