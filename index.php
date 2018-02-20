@@ -1,4 +1,3 @@
-Hi HP!<br>
 
 <?php
 
